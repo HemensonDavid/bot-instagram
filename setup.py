@@ -8,5 +8,6 @@ setup(
         'vesla_instabot',
     ],
     install_requires=[
+        'requests~=2.22',
     ],
 )
